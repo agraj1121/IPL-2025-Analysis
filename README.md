@@ -120,8 +120,10 @@ The datasets contain player statistics such as runs, strike rates, wickets, econ
 IPL-2025-Analysis/
 │
 ├── data/
-├── notebooks/
-├── images/
+│     ├── IPL2025Batters.csv
+│     └── IPL2025Bowlers.csv
+├── analysis.ipynb
+├── visuals/
 ├── README.md
 └── requirements.txt
 ```
@@ -137,5 +139,28 @@ This project demonstrates how data analysis can be applied to sports analytics t
 ## Author
 
 **Agraj Shukla**
+
+<hr>
+
+## Dataset Source
+
+The IPL 2025 batting and bowling datasets used in this project were obtained from:
+
+* Dataset Name: *IPL 2025 Batters and Bowlers Dataset*
+* Source: [https://www.kaggle.com/datasets/vinayaks0n1/ipl-2025]
+* License: Apache License 2.0
+
+All credit for the original data collection and maintenance belongs to the dataset creators.
+
+___
+
+## Dataset License
+
+The datasets used in this project are distributed under the **Apache License 2.0**. The original dataset creators retain their respective rights and ownership.
+
+This project uses the datasets solely for educational and analytical purposes. Users who wish to reuse or redistribute the datasets should review and comply with the terms and conditions of the Apache License 2.0.
+
+For more information, refer to the official Apache License documentation:
+https://www.apache.org/licenses/LICENSE-2.0
 
 <hr>
