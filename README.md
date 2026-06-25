@@ -136,12 +136,6 @@ This project demonstrates how data analysis can be applied to sports analytics t
 
 ---
 
-## Author
-
-**Agraj Shukla**
-
-<hr>
-
 ## Dataset Source
 
 The IPL 2025 batting and bowling datasets used in this project were obtained from:
@@ -162,5 +156,11 @@ This project uses the datasets solely for educational and analytical purposes. U
 
 For more information, refer to the official Apache License documentation:
 https://www.apache.org/licenses/LICENSE-2.0
+
+<hr>
+
+## Author
+
+**Agraj Shukla**
 
 <hr>
